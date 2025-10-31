@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="cs" data-theme="dark">
+<head>
+    <meta charset="utf-8">
+    <title>{{ config.extra.site_name | upper }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+    {% include "navbar.html" %}
+    <section class="section">
+        <div class="container">
+            {% block content %}{% endblock content %}
+        </div>
+    </section>
+</body>
+</html>

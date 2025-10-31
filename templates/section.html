@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1 class="text-4xl font-bold">{{ section.title }}</h1>
+  <p>{{ section.content | safe }}</p>
+  <p>Pages in section</p>
+  <ul class="text-xl font-medium">
+  {% for page in section.pages | reverse %}
+      <li>
+        <em> <a href="{{ page.permalink }}"> {{ page.title }} </a> </em>
+        <span>{{ page.date | date(format="%Y-%m-%d") }}</span>
+      </li>
+  {% endfor %}
+  </ul>
+
+{% endblock content %}
