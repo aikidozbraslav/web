@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="cs" data-theme="dark">
+<html lang="cs" data-theme="light">
 <head>
     <meta charset="utf-8">
     <title>{{ config.extra.site_name | upper }}</title>
@@ -8,10 +8,8 @@
 </head>
 <body>
     {% include "navbar.html" %}
-    <!-- <section class="section"> -->
-        <div class="max-w-3xl mx-auto my-12">
-            {% block content %}{% endblock content %}
-        </div>
-    <!-- </section> -->
+    <div class="max-w-3xl mx-auto my-12">
+        {% block content %}{% endblock content %}
+    </div>
 </body>
 </html>
