@@ -7,6 +7,7 @@
     <title>{{ config.extra.site_name | upper }}</title>
     <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="{{ get_url(path='css/styles.css') }}">
 </head>
 <body>
     {% include "navbar.html" %}
