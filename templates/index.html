@@ -1,8 +1,6 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="text-3xl font-bold mb-6">
-  Oddíl Aikido Zbraslav
-</h1>
-<p>Webové stránky se připravují</p>
+  <h1 class="text-3xl font-bold mb-6">{{ section.title }}</h1>
+  <p class="text-base font-normal">{{ section.content | safe }}</p>
 {% endblock content %}
