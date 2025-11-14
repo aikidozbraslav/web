@@ -13,11 +13,11 @@ Aikido je více než jen technika sebeobrany. Je to filozofie harmonie, respektu
 
 Poskytujeme pravidelné tréninky pro děti i dospělé, přizpůsobené věku a úrovni dovedností každého cvičence.
 
-Na trénincích se věnujeme komplexní výuce aikida, která zahrnuje:
+Na trénincích se věnujeme komplexní výuce Aikida, která zahrnuje:
 
-- Základní i pokročilé techniky Aikido
-- Nácvik pádů (ukemi) pro bezpečný trénink
-- Práci se zbraněmi pro dospělé, včetně techniky s "jo" (tradiční japonská hůl) a dalšími tradičními zbraněmi
+- základní i pokročilé techniky Aikido
+- nácvik pádů (ukemi) pro bezpečný trénink
+- cvičení se zbraněmi pro dospělé, včetně technik s "jo" (tradiční japonská hůl)
 
 Pod vedením zkušeného instruktora se naučíte nejen fyzické techniky, ale také filozofii a principy stojící za tímto uměním. Důraz klademe na bezpečnost, vzájemný respekt a radost z pohybu.
 
