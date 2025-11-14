@@ -23,4 +23,6 @@ Tréninky jsou vždy **v pondělí** a **ve středu:**
 - pololetně 2000 Kč &ndash; tréninky 1x týdně (děti i dospělí)
 - pololetně 3000 Kč &ndash; tréninky 2x týdně (děti i dospělí)
 
+Podrobné pokyny k placení příspěvků najdete na stránkách [Sokol Zbraslav.](https://www.sokol-zbraslav.cz/stranky-oddilu/poplatky-clenove/)
+
 **Přijďte si Aikido vyzkoušet! První trénink zdarma kdykoliv během roku.**
