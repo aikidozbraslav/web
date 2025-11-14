@@ -3,4 +3,7 @@
 {% block content %}
   <h1>{{ section.title }}</h1>
   <article class="text-base font-normal">{{ section.content | safe }}</article>
+  <div class="mt-8 text-center">
+    <a href="{{ get_url(path='@/trainings.md') }}" class="btn btn-accent btn-lg">Chci cvičit Aikido</a>
+  </div>
 {% endblock content %}
