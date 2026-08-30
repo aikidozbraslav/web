@@ -8,4 +8,4 @@ Aikido vám nabízí elegantní a přirozený fyzický pohyb, sebeobranu, posilo
 
 V Aikido nejsou žádné soutěže, rozvíjíte se v něm svým vlastním tempem a překonáváte hlavně své vlastní fyzické i duševní limity.
 
-Pokud vás zajímají další detaily o tomto sportu či o pojetí tréninků, neváhejte kontaktovat přímo trenéra Petra na tel. {{petr_tel()}} (volejte mezi 12:00&ndash;17:00, případně pište sms).
+Pokud vás zajímají další detaily o tomto sportu či o pojetí tréninků, neváhejte kontaktovat přímo trenéra Petra na tel. {{ <petr_tel /> }} (volejte mezi 12:00&ndash;17:00, případně pište sms).
