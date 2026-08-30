@@ -3,12 +3,16 @@
 {% block content %}
 <h1>{{ section.title }}</h1>
 <article class="text-base font-normal">
-  <ul>
-    <!-- If you are using pagination, section.pages will be empty.
-         You need to use the paginator object -->  
-    {% for page in section.pages %}
-      <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-    {% endfor %}
-</ul>
+  {% if section.pages | length == 0 %}
+    <p>Nyní nemáme žádnou aktualitu.</p>
+  {% else %}
+    <ul>
+      <!-- If you are using pagination, section.pages will be empty.
+           You need to use the paginator object -->
+      {% for page in section.pages %}
+        <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 </article>
 {% endblock content %}
